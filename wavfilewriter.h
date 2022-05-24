@@ -1,3 +1,5 @@
+#William Hendrix 
+
 #ifndef __WAV_FILE_WRITER
 #define __WAV_FILE_WRITER
 
